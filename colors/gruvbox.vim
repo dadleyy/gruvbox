@@ -974,6 +974,7 @@ hi! link cssGeneratedContentProp GruvboxAqua
 " }}}
 " JavaScript: {{{
 
+hi! link jsConstructor GruvboxAqua
 hi! link javaScriptBraces GruvboxFg1
 hi! link javaScriptFunction GruvboxAqua
 hi! link javaScriptIdentifier GruvboxRed
